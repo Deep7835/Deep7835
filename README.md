@@ -99,11 +99,6 @@ Developed and maintained web applications for various client projects.
 
 ## 🚀 Recent Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deep7835&repo=mads-institute" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deep7835&repo=sidharth-communication" />
-</p>
-
 - 🏢 **Mads Institute**
 - 📱 **Sidharth Communication**
 - ⚡ **Shiv Shakti Electrical**
@@ -143,6 +138,3 @@ Developed and maintained web applications for various client projects.
 
 ---
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Deep7835&theme=react-dark" alt="Contribution Graph" />
-</p>
